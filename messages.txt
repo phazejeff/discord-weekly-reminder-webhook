@@ -1,0 +1,30 @@
+{
+    'noon' : [
+        '@everyone Session tonight at %h:%m!',
+        '@everyone Holy shit we have a session tonight at %h:%m!',
+        '@everyone FSDHFHSDJKAFHJKFHKJASHFKLSAHFKJASDHFKSDAHFJKAS at %h:%m!',
+        '@everyone %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m %h:%m',
+        '@everyone i bet you forgot that there was a session tonight at %h:%m',
+        '@everyone SESSION STARTING NOW AND YOU ARENT IN HERE?!?!? \n\nno jk its tonight at %h:%m',
+        '@everyone guys what day is it? i think theres a session tonight. its at like... uhhhh... %h... %h.... %m? yea %h:%m',
+        '@everyone https://www.youtube.com/watch?v=IJmIGC0nwK0\n\nalso session tonight at %h:%m',
+        '@everyone what? are you sure theres a session tonight? seriously? ok, i guess you are the dm. apparently theres a session tonight at %h:%m, i dont quite believe you but whatever',
+        '@everyone dndndndndndndndndndndndndndndnd %h:%m',
+        '@everyone dnd is tonight so dont get stuck at the border or something',
+        '@everyone if you tell us you cant come to dnd tonight i will finger your mom\nhttps://tenor.com/view/kid-named-finger-mike-ehrmantraut-gif-26067077'
+    ],
+    'session' : [
+        '@everyone Session starts in 5 minutes!',
+        '@everyone you do know that session starts in 5 minutes right',
+        '@everyone dude session is in 5 minutes and you aren\'t in the channel?',
+        '@everyone hey! retard! look at the time! literally 5 minutes!',
+        '@everyone if you arent in the channel in 5 minutes than i swear in the name of Aegross you will be smited down',
+        '@everyone apex anyone? shit i mean session in 5 minutes',
+        '@everyone Session tonight at %h:%m!\n\nOH SHIT THATS IN 5 MINUTES JOIN JOIN JOIN',
+        '@everyone guys? im scared. i lost my watch and idk what time it is anymore. i think theres a session soon? but idk how soon. its at %h:%m, you may want to check what time it is rn cuz i have no idea',
+        '@everyone i want you to think real hard about why you are getting this discord notification. really think about what might be happening real soon. take your time and think, but not too much time. did you figure it out? i hope you did',
+        '@everyone %h:%m is in 5 minutes btw',
+        '@everyone dnd is in 5 minutes join or i will finger ur butthole\n\nkid named finger: https://tenor.com/view/kys-saul-goodman-better-call-saul-gif-24336468',
+        '@everyone 5 minutes until dnd, so whatever you do do not start taking a shower and walking your dog rn'
+    ]
+}
